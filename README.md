@@ -115,7 +115,7 @@ Further resources:
       - [General-Purpose Machine Learning](#general-purpose-machine-learning-21)
       - [Data Analysis / Data Visualization](#data-analysis--data-visualization-9)
       - [Misc Scripts / iPython Notebooks / Codebases](#misc-scripts--ipython-notebooks--codebases)
-      - [Neural Networks](#neural-networks)
+      - [Neural Networks](#neural-networks-1)
       - [Kaggle Competition Source Code](#kaggle-competition-source-code)
       - [Reinforcement Learning](#reinforcement-learning-1)
   - [Ruby](#ruby)
